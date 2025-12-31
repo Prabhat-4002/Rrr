@@ -1,0 +1,7 @@
+{
+  "name": "Copy of QFD App - Quick Food & Dairy",
+  "description": "A comprehensive e-commerce platform for food, dairy, and groceries with specialized delivery slots, UPI integration, and multilingual support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
